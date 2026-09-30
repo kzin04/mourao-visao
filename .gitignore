@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Testes
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Dados locais
+data/videos/
+data/images/
+data/raw/
+data/processed/
+
+# Modelos de IA
+ai/models/*.pt
+ai/models/*.onnx
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
